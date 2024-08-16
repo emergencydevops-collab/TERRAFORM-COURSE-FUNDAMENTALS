@@ -1,4 +1,4 @@
-Here's a `README.md` file for your Terraform project:
+
 
 ```md
 # Terraform Command Basics
@@ -112,4 +112,3 @@ In this tutorial, we learned the following basic Terraform commands:
 These commands are essential for managing infrastructure as code using Terraform.
 ```
 
-This `README.md` provides clear instructions for setting up and managing the EC2 instance with Terraform while ensuring that users understand each step in the process.
